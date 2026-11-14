@@ -20,14 +20,13 @@
 
 # START: Customize these things!!!
 
-title: My Super-Great Webring
+title: CAC Webring
 description: >- # this means to ignore newlines until "baseurl:"
-  This is where you tell everyone what your awesome webring is
-  all about.
+  A webring for all of the members of the Computer Arts Club!
 
 baseurl: /webring-starter # the subpath of your site, e.g. /blog
-url: https://githubusername.github.io
-repository: githubusername/webring-starter
+url: https://computerarts.club/CAC-Webring/
+repository: ComputerArtsClub/CAC-Webring
 
 # END: You *can* customize the stuff below but you don't need to.
 
