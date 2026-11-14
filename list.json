@@ -2,13 +2,18 @@
   "sites": [
     {
       "name": "Computer Arts Club",
-      "url": "https://www.computerarts.club/",
+      "url": "https://computerarts.club/",
       "author": "Computer Arts Club <madtclub@gmail.com>"
     },
     {
       "name": "Bella George",
       "url": "https://www.bellageorge.ca/",
       "author": "Bella George <im.george224@gmail.com>"
+    },
+    {
+      "name": "Valyntine Cala",
+      "url": "https://valyntine.net/",
+      "author": "Valyntine Cala"
     }
   ]
 }
