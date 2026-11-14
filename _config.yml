@@ -24,7 +24,7 @@ title: CAC Webring
 description: >- # this means to ignore newlines until "baseurl:"
   A webring for all of the members of the Computer Arts Club!
 
-baseurl: /webring-starter # the subpath of your site, e.g. /blog
+baseurl: /www # the subpath of your site, e.g. /blog
 url: https://computerarts.club/CAC-Webring/
 repository: ComputerArtsClub/CAC-Webring
 
