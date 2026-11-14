@@ -3,7 +3,12 @@
     {
       "name": "Computer Arts Club",
       "url": "https://www.computerarts.club/",
-      "author": "Computer Arts Club"
+      "author": "Computer Arts Club <madtclub@gmail.com>"
+    },
+    {
+      "name": "Bella George",
+      "url": "https://www.bellageorge.ca/",
+      "author": "Bella George <im.george224@gmail.com>"
     }
   ]
 }
